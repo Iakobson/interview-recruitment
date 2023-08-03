@@ -31,6 +31,7 @@ https://djinni.co/jobs/
 ### Choose an article
 
 * EPAM
+  + [Інсайдерські поради з проходження інтерв’ю та складання резюме](https://training.epam.ua/News/Items/576?lang=ua&utm_source=telegram&utm_medium=post&utm_campaign=agata-kosma)
   + [Insider tips on interviews and CVs](https://training.epam.ua/News/Items/576?lang=en)
     - _What should be in a CV?_
     - _What should be in the switcher’s CV?_
@@ -50,6 +51,11 @@ https://djinni.co/jobs/
   + [Чи варто подаватися на вакансію, якщо ви не відповідаєте всім вимогам?](https://happymonday.ua/chy-varto-podavatysya-na-vakansiyu?utm_source=telegram_start&utm_medium=social&utm_campaign=selection_article+)
 * DOU
   + [Секрети успішного проходження співбесіди: поради рекрутерів](https://dou.ua/forums/topic/40872/?from=tg&utm_source=telegram&utm_medium=social)
+  + [Міняємось ролями: що запитати у роботодавця на співбесіді](https://dou.ua/forums/topic/41470/?from=tg&utm_source=telegram&utm_medium=social)
+  + [Поради, як відповідати англійською мовою](https://dou.ua/forums/topic/42462/?from=linkedin&utm_source=linkedin&utm_medium=social)
+
+
+
 
 - - -
 
@@ -63,8 +69,8 @@ https://djinni.co/jobs/
 * Intellias Inside
   + [5 Dos & Don’ts під час співбесіди з рекрутером](https://www.youtube.com/watch?v=kE0xyUDgw4I)
   + [Pet-проєкти: як додати практичного досвіду у своє портфоліо](https://www.youtube.com/watch?v=NVb1N1WKq7s)
-
-
+* EPAM
+  + [Junior Soft Skills Conference](https://www.youtube.com/watch?v=l4sFw8GvGq8)
 
 
 
