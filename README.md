@@ -37,11 +37,30 @@
   - __
   - __
 
+- - -
+
+### Choose an article
+
+* EPAM
+  + [Insider tips on interviews and CVs](https://training.epam.ua/News/Items/576?lang=en)
+
+
+
+
+
 
 - - -
 
-### Ferrexpo Education Hub
+### Choose a video
 
+* Ferrexpo Education Hub
   + [про акторську майстерність, самопрезентацію та подолання стресу під час співбесід](https://www.youtube.com/watch?v=CzGVV4wCSa0)
+  + [7 ключових порад щодо заповнення профілю в LinkedIn](https://www.youtube.com/watch?v=0cC4ldoY8r4)
+
+
+
+
+
+
 
 
