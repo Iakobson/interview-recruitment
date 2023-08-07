@@ -53,6 +53,7 @@ https://djinni.co/jobs/
   + [Секрети успішного проходження співбесіди: поради рекрутерів](https://dou.ua/forums/topic/40872/?from=tg&utm_source=telegram&utm_medium=social)
   + [Міняємось ролями: що запитати у роботодавця на співбесіді](https://dou.ua/forums/topic/41470/?from=tg&utm_source=telegram&utm_medium=social)
   + [Поради, як відповідати англійською мовою](https://dou.ua/forums/topic/42462/?from=linkedin&utm_source=linkedin&utm_medium=social)
+  + [Співбесіда англійською в IT. Про що питають рекрутери?](https://dou.ua/lenta/articles/it-interview-in-english/?from=tg&utm_source=telegram&utm_medium=social)
 
 
 
@@ -72,5 +73,5 @@ https://djinni.co/jobs/
 * EPAM
   + [Junior Soft Skills Conference](https://www.youtube.com/watch?v=l4sFw8GvGq8)
 
-
+- - -
 
