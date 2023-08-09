@@ -8,7 +8,11 @@ async function async2() {
   console.log('async2');
 }
 console.log('script start');
-setTimeout( function(resolve) {
+setTimeout( function() {
+  console.log('set Timeout');
+}, 0)  
+async1();
+new Promise( function(resolve) {
   console.log('promise1');
   resolve();
 } ).then( function() {
