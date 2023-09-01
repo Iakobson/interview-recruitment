@@ -58,6 +58,22 @@ https://djinni.co/jobs/
   + [Pet-проєкти: як додати практичного досвіду у своє портфоліо](https://www.youtube.com/watch?v=NVb1N1WKq7s)
 * **EPAM**
   + [Junior Soft Skills Conference](https://www.youtube.com/watch?v=l4sFw8GvGq8)
+  + [Project Management](https://www.youtube.com/playlist?list=PLFjpByuUbtfhus4Xc_rihrzXozcIcMMVI)
+    - _Fail Tale_
+    - _Lean Coffee для Проєктних Менеджерів_
+    - _Сучасні Тренди в Agile 2.0_
+    - _Все, що ви хотіли дізнатися про SAFe_
+  + [🇺🇦 Вебінари від IT Skills 4U](https://www.youtube.com/playlist?list=PLFjpByuUbtfgUTtRyr6BKs4YtJYSaXOmj)
+    - _Топ-10 порад для джуніора_
+    - _Професії в ІТ та ролі на проєкті_
+    - _TOP-5 recommendations for career start in IT_
+    - _Детальна інструкція з успішного інтерв'ю_
+    - _how to use LinkedIn to find a job?_
+    - _Self-presentation: how to prepare for an interview_
+    - _М'які навички сучасності: портрет ідеального кандидата в 2023 році_
+    - _Так не треба: погані поради для хорошого вивчення англійської_
+    - _Становлення Делівері Організації: Можливості та Небезпеки_
+  + [А чи потрібні насправді айтівцям soft skills?](https://www.youtube.com/watch?v=-FMa9m0i-Fo&list=PLFjpByuUbtfjY2NfosChGXGXM9VUKm8s_)
 * **technical interview**
   + [Собеседования на JavaScript. Как не облажаться?](https://www.youtube.com/watch?v=RLgUEEAgvMg)
   + [Публічна співбесіда Junior Frontend Developer](https://www.youtube.com/watch?v=upTvbW3dfYk)
